@@ -1,8 +1,13 @@
 # DDNS Python Script for DNSPOD
 
+## 特性
+
+* 安装卸载功能
+* 定时检测并更新解析记录
+
 ## 测试环境
 
-`Ubuntu 20.04 LTS on WSL2 ` ，`Python 3.8.5 64-bit ` ，装有 `requests`、 `python-crontab` 库.
+`Ubuntu 20.04 LTS on WSL2 ` ，`Python 3.8.5 64-bit ` ，装有 `requests`、 `python-crontab` 模块.
 
 ## 使用方法
 
