@@ -1,0 +1,8 @@
+{
+    "ID": "type_your_TokenID_here",
+    "Token": "type_your_Token_here",
+    "Domains": [
+            "Example1.com",
+            "Example2.com"
+    ]
+}
